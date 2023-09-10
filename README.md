@@ -4,7 +4,7 @@ This project recreates a Competition page using HTML and CSS. The goal is to mat
 
 ## Preview
 
-Project_1.png
+![Uploading Project_2.png…]()
 
 ## How to Use
 
